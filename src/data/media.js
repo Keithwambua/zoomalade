@@ -1,0 +1,10 @@
+export const media = [
+    { id: 1, title: "The Quiet Geometry of Light", creator: "Nia Sol", thumbnail: "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=900&q=85", duration: "08:24", views: "1.2M", type: "Video", category: "Trending" },
+    { id: 2, title: "Midnight Frequencies", creator: "Aster House", thumbnail: "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=900&q=85", duration: "42:18", views: "892K", type: "Music", category: "Free Songs from Pixabay" },
+    { id: 3, title: "A Field Guide to Wonder", creator: "M. Osei", thumbnail: "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=900&q=85", duration: "14:06", views: "734K", type: "Podcast", category: "Recently Added" },
+    { id: 4, title: "Slow Mornings in Kyoto", creator: "Toma & Co.", thumbnail: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=900&q=85", duration: "21:40", views: "628K", type: "Video", category: "Videos" },
+    { id: 5, title: "Electric Bloom", creator: "Vibe Atlas", thumbnail: "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=900&q=85", duration: "03:54", views: "2.1M", type: "Music", category: "Music" },
+    { id: 6, title: "Designing a Softer Future", creator: "Zola Reed", thumbnail: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=85", duration: "31:12", views: "412K", type: "Podcast", category: "Free Songs from Pixabay" },
+    { id: 7, title: "Between the Lines", creator: "Leo Park", thumbnail: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=900&q=85", duration: "11:08", views: "389K", type: "Video", category: "Trending" },
+    { id: 8, title: "After Hours / Before Dawn", creator: "Northbound", thumbnail: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=900&q=85", duration: "05:42", views: "301K", type: "Music", category: "Recently Added" }
+];
