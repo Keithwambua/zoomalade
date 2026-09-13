@@ -1,4 +1,4 @@
-import { Download, Headphones, Play, Video } from "lucide-react";
+import { Download, Play } from "lucide-react";
 import Button from "./Button";
 export default function MediaCard({ item, onPlay, onDownload }) {
   return (
@@ -26,12 +26,8 @@ export default function MediaCard({ item, onPlay, onDownload }) {
         <Button variant="primary" onClick={() => onPlay(item)}>
           <Play size={14} fill="currentColor" /> Play
         </Button>
-        <Button variant="ghost">
-          <Headphones size={14} /> Audio
-        </Button>
-        <Button variant="ghost">
-          <Video size={14} /> Video
-        </Button>
+        <Button variant="ghost">Audio</Button>
+        <Button variant="ghost">Video</Button>
         <Button
           variant="icon"
           onClick={onDownload}

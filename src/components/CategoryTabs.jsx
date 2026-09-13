@@ -1,9 +1,9 @@
 const categories = [
   "All",
-  "Music",
+  "Lo-fi",
   "Videos",
   "Trending",
-  "Free Songs from Pixabay",
+  "Licensed from Pixabay",
   "Recently Added",
 ];
 export default function CategoryTabs({ active, onChange }) {
